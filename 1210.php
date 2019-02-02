@@ -238,7 +238,7 @@ HTML;
             echo '<script>window.location = "?";</script>';
         } else {
             echo "<center><div id='bad' style='margin-top:10px; background:none repeat scroll 0 0 #A51D1D;
-border: 1px black dashed; height:20px; line-height:20px; font-size:14px; padding:5px; text-align:center; color:#FFF; width:540px; text-transform:uppercase; -webkit-border-radius:5px; -moz-border-radius:5px; border-radius:5px'> User or password is incorrect.</div></center>";
+border: 1px black dashed; height:20px; line-height:20px; font-size:14px; padding:5px; text-align:center; color:#FFF; width:540px; text-transform:uppercase; -webkit-border-radius:5px; -moz-border-radius:5px; border-radius:5px'>Tu n'éssairai pas de me bz toi par hasard ?</div></center>";
         }
     }
     
